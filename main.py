@@ -5,4 +5,8 @@ def func1(n):
     for i in range(n):
         sum+=i
     return sum
+def func2(n):
+    
+    pass
+
 
