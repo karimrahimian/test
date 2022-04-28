@@ -6,8 +6,8 @@ def func1(n):
         sum+=i
     return sum
 def func2(n):
-    
     pass
+
 def func3(n):
     pass
 
